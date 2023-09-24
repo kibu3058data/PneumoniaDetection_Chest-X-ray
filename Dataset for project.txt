@@ -1,0 +1,1 @@
+/kaggle/input/pneumonia-chest-x-ray-dataset
